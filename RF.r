@@ -1,4 +1,4 @@
-#Input of Data and check of data types:
+#Input of data and check of data types:
 oneypd_tree <- read.csv("input_data.csv")
 library(dplyr)
 dplyr::glimpse(oneypd_tree)
